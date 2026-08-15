@@ -29,7 +29,7 @@
 
 ### 📡 find me
 
-- telegram: `@Callme_vexshell` / `@OmenAndroid`
+- telegram: `@Callme_vexshell` / 'thekairosdev'
 
 ---
 
