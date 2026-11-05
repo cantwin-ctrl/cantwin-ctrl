@@ -28,19 +28,19 @@
       <g transform="translate(834,72)">
         <rect width="254" height="82" rx="10" fill="#111820" stroke="#1f2a37"/>
         <text class="mono" x="18" y="34" font-size="12" fill="#6e7681" letter-spacing="1.6">LAST PUSH</text>
-        <text class="mono" x="18" y="65" font-size="20" font-weight="600" fill="#8b949e">25 Oct 2026</text>
+        <text class="mono" x="18" y="65" font-size="20" font-weight="600" fill="#8b949e">05 Nov 2026</text>
       </g>
   <g class="in" style="animation-delay:.25s">
-      <rect x="24.0" y="206" width="320.7" height="10" fill="#b07219"/>
-      <rect x="344.7" y="206" width="303.8" height="10" fill="#3178c6"/>
-      <rect x="648.4" y="206" width="234.7" height="10" fill="#89e051"/>
-      <rect x="883.2" y="206" width="132.3" height="10" fill="#e34c26"/>
-      <rect x="1015.5" y="206" width="80.5" height="10" fill="#563d7c"/>
+      <rect x="24.0" y="206" width="314.6" height="10" fill="#b07219"/>
+      <rect x="338.6" y="206" width="298.0" height="10" fill="#3178c6"/>
+      <rect x="636.6" y="206" width="230.3" height="10" fill="#89e051"/>
+      <rect x="866.9" y="206" width="129.8" height="10" fill="#e34c26"/>
+      <rect x="996.8" y="206" width="99.2" height="10" fill="#563d7c"/>
   </g>
   <g class="in" style="animation-delay:.4s">
       <g transform="translate(24,246)">
         <circle cx="4" cy="-5" r="4" fill="#b07219"/>
-        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">Java <tspan fill="#6e7681">30%</tspan></text>
+        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">Java <tspan fill="#6e7681">29%</tspan></text>
       </g>
       <g transform="translate(229,246)">
         <circle cx="4" cy="-5" r="4" fill="#3178c6"/>
@@ -48,7 +48,7 @@
       </g>
       <g transform="translate(434,246)">
         <circle cx="4" cy="-5" r="4" fill="#89e051"/>
-        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">Shell <tspan fill="#6e7681">22%</tspan></text>
+        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">Shell <tspan fill="#6e7681">21%</tspan></text>
       </g>
       <g transform="translate(639,246)">
         <circle cx="4" cy="-5" r="4" fill="#e34c26"/>
