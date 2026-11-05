@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 290" width="1120" height="290" role="img" aria-label="cantwin-ctrl github stats">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .in { animation: rise .6s cubic-bezier(.22,.8,.3,1) both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="1117" height="287" rx="16" fill="#0d1117" stroke="#243040" stroke-width="1.5"/>
+  <g class="in">
+    <text class="mono" x="24" y="40" font-size="17" fill="#39d353">$</text>
+    <text class="mono" x="46" y="40" font-size="17" fill="#c9d1d9">stats --user cantwin-ctrl</text>
+  </g>
+      <g transform="translate(24,72)">
+        <rect width="254" height="82" rx="10" fill="#111820" stroke="#1f2a37"/>
+        <text class="mono" x="18" y="34" font-size="12" fill="#6e7681" letter-spacing="1.6">PUBLIC REPOS</text>
+        <text class="mono" x="18" y="65" font-size="26" font-weight="600" fill="#e6edf3">5</text>
+      </g>
+      <g transform="translate(294,72)">
+        <rect width="254" height="82" rx="10" fill="#111820" stroke="#1f2a37"/>
+        <text class="mono" x="18" y="34" font-size="12" fill="#6e7681" letter-spacing="1.6">STARS EARNED</text>
+        <text class="mono" x="18" y="65" font-size="26" font-weight="600" fill="#e6edf3">0</text>
+      </g>
+      <g transform="translate(564,72)">
+        <rect width="254" height="82" rx="10" fill="#111820" stroke="#1f2a37"/>
+        <text class="mono" x="18" y="34" font-size="12" fill="#6e7681" letter-spacing="1.6">FOLLOWERS</text>
+        <text class="mono" x="18" y="65" font-size="26" font-weight="600" fill="#e6edf3">0</text>
+      </g>
+      <g transform="translate(834,72)">
+        <rect width="254" height="82" rx="10" fill="#111820" stroke="#1f2a37"/>
+        <text class="mono" x="18" y="34" font-size="12" fill="#6e7681" letter-spacing="1.6">LAST PUSH</text>
+        <text class="mono" x="18" y="65" font-size="20" font-weight="600" fill="#8b949e">25 Oct 2026</text>
+      </g>
+  <g class="in" style="animation-delay:.25s">
+      <rect x="24.0" y="206" width="320.7" height="10" fill="#b07219"/>
+      <rect x="344.7" y="206" width="303.8" height="10" fill="#3178c6"/>
+      <rect x="648.4" y="206" width="234.7" height="10" fill="#89e051"/>
+      <rect x="883.2" y="206" width="132.3" height="10" fill="#e34c26"/>
+      <rect x="1015.5" y="206" width="80.5" height="10" fill="#563d7c"/>
+  </g>
+  <g class="in" style="animation-delay:.4s">
+      <g transform="translate(24,246)">
+        <circle cx="4" cy="-5" r="4" fill="#b07219"/>
+        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">Java <tspan fill="#6e7681">30%</tspan></text>
+      </g>
+      <g transform="translate(229,246)">
+        <circle cx="4" cy="-5" r="4" fill="#3178c6"/>
+        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">TypeScript <tspan fill="#6e7681">28%</tspan></text>
+      </g>
+      <g transform="translate(434,246)">
+        <circle cx="4" cy="-5" r="4" fill="#89e051"/>
+        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">Shell <tspan fill="#6e7681">22%</tspan></text>
+      </g>
+      <g transform="translate(639,246)">
+        <circle cx="4" cy="-5" r="4" fill="#e34c26"/>
+        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">HTML <tspan fill="#6e7681">12%</tspan></text>
+      </g>
+      <g transform="translate(844,246)">
+        <circle cx="4" cy="-5" r="4" fill="#563d7c"/>
+        <text class="mono" x="16" y="0" font-size="13" fill="#c9d1d9">CSS <tspan fill="#6e7681">5%</tspan></text>
+      </g>
+  </g>
+  <text class="mono" x="1096" y="272" text-anchor="end" font-size="11" fill="#30363d">updated 2026-11-05</text>
+</svg>
