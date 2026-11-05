@@ -44,7 +44,7 @@ locked-down kernel, that's not a warning — that's an invitation.
 
 <div align="center">
 
-**[telegram](https://t.me/Callme_vexshell)** · **[@OmenAndroid](https://t.me/OmenAndroid)** · **rtmny078@gmail.com**
+**[telegram](https://t.me/Callme_vexshell)** · **[channel](https://t.me/thekairosdev)** · **[portfolio](https://cantwin-ctrl.github.io/next-portfolio)**
 
 <sub><i>"they judge you by the look more than the knowledge" — so the look has to be good.</i></sub>
 
