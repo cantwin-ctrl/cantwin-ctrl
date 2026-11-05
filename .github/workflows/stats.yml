@@ -9,6 +9,10 @@ on:
     paths:
       - "scripts/gen_stats.py"
 
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
